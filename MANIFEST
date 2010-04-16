@@ -8,7 +8,6 @@ Changes
 MANIFEST
 Makefile.PL
 README
-ack
 ack-base
 ack-help.txt
 ack-help-types.txt
